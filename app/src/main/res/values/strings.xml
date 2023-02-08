@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="input_email">Введите e-mail</string>
+    <string name="input_password">Введите пароль</string>
+    <string name="button_text_login">Войти</string>
+    <string name="button_text_sign_up">Зарегистрироваться</string>
+    <string name="text_hello">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aspernatur debitis doloremque, est et fugit hic, labore, laudantium necessitatibus nihilnobis non perspiciatis ratione repellat suscipit unde ut voluptatibus? Quo.</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="button_text_next">Далее</string>
+    <string name="fragment_label_auth">Авторизация</string>
+    <string name="fragment_label_welcome">Добро пожаловать</string>
+    <string name="fragment_label_instructions">Инструкции</string>
+    <string name="fragment_label_list">Список обуви</string>
+    <string name="fragment_label_add">Добавить новую обувь</string>
+    <string name="instruction_label">Как пользоваться приложением</string>
+    <string name="instructions">Вы можете просмотреть список обуви, которую добавили.\nДля добавления новой обуви воспользуйтесь соотвествующей кнопкной.</string>
+    <string name="test_item_name">Кроссовки</string>
+    <string name="test_item_size">24</string>
+    <string name="test_item_description">Очень красивые кроссовки</string>
+    <string name="fab_add_text">Добавление новой обуви</string>
+    <string name="title">Название</string>
+    <string name="company">Производитель</string>
+    <string name="size">Размер</string>
+    <string name="description">Описание</string>
+    <string name="input_description">Введите описание</string>
+    <string name="input_size">Введите размер</string>
+    <string name="input_company">Введите производителя</string>
+    <string name="input_title">Введите название</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="scroll_view_content_descr">Список обуви</string>
+    <string name="menu_item_exit_label">Выход</string>
+    <string name="text_label_email">E-mail</string>
+    <string name="text_label_password">Пароль</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="input_email">Введите e-mail</string>
+    <string name="input_password">Введите пароль</string>
+    <string name="button_text_login">Войти</string>
+    <string name="button_text_sign_up">Зарегистрироваться</string>
+    <string name="button_text_next">Далее</string>
+</resources>
